@@ -287,6 +287,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .emailtxt
 .env
 .flac
+.freyr.
 .gif
 .gif$
 .git
@@ -343,7 +344,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .ssi$
 .svg
 .svg
-.svghttp://dinotim.com/robots.txt
+.svghttp://diigo.com/robots.txt
 .swf$
 .swf$
 .sxg
@@ -602,6 +603,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /-/terraform_module_registry
 /-/usage_quotas
 /-/value_stream_analytics
+/.events-handler
 /.git
 //users$
 /0-0_beds
@@ -938,14 +940,12 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /bookmark-*.html
 /bookmark.html
 /bookmarks
-/bookshelf
 /brandpublishing
 /breakingnews.js
 /briefs/articleid-*
 /browse
 /browse-history
 /browse.html
-/browse/more_page
 /browse?
 /buckets$
 /bugs/new
@@ -959,7 +959,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /business/aisearch
 /business/availability
 /business/availability/?context
-/business/availability/?context=http://help.twitter.com/robots.txt
+/business/availability/?context=http://help.openai.com/robots.txt
 /business/availability?context
 /business/availability?context=
 /business/search
@@ -1152,24 +1152,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /dl
 /docs/product
 /document$
-/document/comments
-/document/create
-/document/delete
-/document/download
-/document/edit
-/document/embed_generator
-/document/embed_generator_code
-/document/forward
-/document/forward_mail
-/document/inappropriate
-/document/progress
-/document/rating
-/document/readers
-/document/search
-/document/search_text
-/document/tag
-/document/view_more
-/document/views
 /domain-name-use-agreement
 /download
 /download-thanks
@@ -1385,6 +1367,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /following$
 /following$
 /followings
+/football
 /foreclosed
 /foreclosure--
 /fork
@@ -1406,6 +1389,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /full-commit
 /full_screen_preview
 /fullscreen-page
+/future.adtech.freyr.v1.PageViewEvent
 /futures
 /g00
 /galaxy-s10-buy-test
@@ -1441,7 +1425,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /goldlog$
 /group
 /group/
-/gtc/gtc-chatbot/*http://nymag.com/robots.txt
+/gtc/gtc-chatbot/*http://nypost.com/robots.txt
 /hack
 /hardware/*/cart
 /havadurumu/
@@ -1639,7 +1623,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /lp/video-streaming
 /ls=
 /magazine/
-/magazine/get_comment
 /magazines
 /mail/*
 /makeid$
@@ -1729,10 +1712,12 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /newest/*atom
 /newest/*rss
 /newest/*xml
+/news-release/*.html?pdf=1
 /newsearch/
 /newsletter
 /nextpodcastlist/*
 /nightly-news
+/no-referrer-when-downgradehttp://gmail.com/robots.txt
 /no-search-results
 /node
 /node/add
@@ -1958,6 +1943,8 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /s
 /s?k=*&rh=n*p_*p_*p_
 /saa/
+/save-research
+/saved-research
 /scheduled-pin
 /scheduled-pins
 /schemes
@@ -2328,9 +2315,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /unitrun
 /unsubscribe/
 /update.php
-/upload/analyse
-/upload/cloud
-/upload/forgot_password
 /uploads
 /url$
 /use-cases
@@ -2369,7 +2353,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /user/register/confirm$
 /user/register?context
 /user/register?context=
-/user/social_auth
 /user/ur*/checkins
 /user/ur*/ratings
 /user/ur*/reviews
@@ -2379,7 +2362,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /users/group
 /users/popular-week
 /util$
-/utils
 /v
 /vaak-samen-gekocht
 /vaclk
@@ -2528,6 +2510,8 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*&keepEmbedCode=
 ?*&keyboard=
 ?*&ls=
+?*&noheader
+?*&sfdebug
 ?*/
 ?*/*ref
 ?*002/*0902
@@ -2545,7 +2529,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*adxarea=
 ?*ajax=
 ?*ajs_event
-?*apikey*http://w3c.github.io/robots.txt
+?*apikey*http://vk.com/robots.txt
 ?*app
 ?*attachment_id
 ?*author
@@ -2738,7 +2722,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?ampstory=
 ?app=
 ?articleno=
-?at_
 ?attachment_id=
 ?attachment_id=*
 ?attribute_key
@@ -2915,7 +2898,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?getlink=*
 ?gm
 ?goal=
-?gologin=1
 ?google_preview=
 ?gws_rd=ssl$
 ?h=
@@ -2981,6 +2963,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?list=wall
 ?location=
 ?ls=
+?maca=
 ?mark=google_shopping
 ?maspect
 ?mediaId=
@@ -3003,6 +2986,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?nextUrl=*
 ?nid=
 ?no-cache=
+?noheader
 ?nomobile*
 ?noredirect=true&config=standalone
 ?np=*
@@ -3136,6 +3120,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?service=Ajax
 ?service=ajax
 ?set_mobile=
+?sfdebug
 ?share=
 ?showAllGroups=
 ?show_error=true
@@ -3492,6 +3477,7 @@ Content/Images
 ControlPanel
 CookiePingback
 CoralEditor
+CoreWebVitalsThresholdEvent
 CostPerClick
 CountryAjax
 CountyAssessorPage.htm
@@ -3552,7 +3538,6 @@ ExternalLinkInterstitial
 FG_ID=
 FacebookConnect
 FareCalendar
-FatalError.html
 Feature
 FeaturedRentalReview
 FeaturedShowMoreOverlay
@@ -3631,6 +3616,7 @@ Help
 HelpContent
 HelpProxy
 Home-
+Home/404Page
 HotelBookingController
 HotelBookingRoomSelectionHtml
 HotelBookingRoomSelectionJson
@@ -3727,6 +3713,8 @@ InvoicePayment
 IpadInterstitial
 JP/support/public/mt/tac/100/1002347/techtip_conventions.shtml
 JSErrorRecord
+JSWidget/
+JSWidgetFeed/
 Jai-Mrug*
 Japan/DirectX/default.asp?
 Job
@@ -3743,9 +3731,9 @@ Jobs/Glassdoor-Jobs-E100431.htm
 Jobs/Search
 Jobs/title
 JoinPlus
+JsonData/
 JsonServiceController
 JustForYouGuide
-LFE/Live.controls.sharedpages/error.aspx
 LICENSE.txt
 LNAjax
 LanderLogger
@@ -3773,7 +3761,6 @@ M
 M9sY8PVm6js.js
 MAINTAINERS.txt
 MAPS
-MUST
 MaPS
 MachineTranslation
 Mail/
@@ -4020,15 +4007,18 @@ NVisitor4Ajax.nhn
 NVisitorgp4Ajax.naver
 NVisitorgp4Ajax.nhn
 NativeAds
+Ne/SocialMediaActivity/LogJSWidgetLinkClick
 NetPromoterPopup
 NewMessage
 NewOwners
 NewTopic
+News/Index
 News/XT
 News/Xt
 NewsLetterPlus
 NewsPass
 NewsPlus
+NewsRoom/ReleaseNg/
 NewsletterNews
 NewsletterPopupBudgetRomanticFamilyPopup
 NewsletterPopupNewsletterPopup1
@@ -4058,7 +4048,6 @@ OwnersDM
 OwnersNew
 OwnersOld
 OwnersTermsAndConditions
-P.mvc?_escaped_fragment_=/peopletags.aspx
 PDAET/
 PDATOI/
 POLLSERVER
@@ -4302,7 +4291,6 @@ SelfServeAdvertising
 SendToFriend
 SentConfirmationEmail
 Server
-ServerError.aspx
 Service-Search/find-a-psychological-therapies-service/find-your-gp
 Service-Search/find-a-psychological-therapies-service/results
 Service-Search/find-a-psychological-therapies-service/what-happens-when-you-refer-yourself
@@ -4383,6 +4371,7 @@ Stellen/title
 StickerRequestAjax
 StockAvailSearchForm
 StockAvailSearchForm=
+StockQuote/
 Structure
 Structure/VA
 Structure/cblast/cblast.cgi
@@ -4393,6 +4382,7 @@ StyleGuideUI/static-3.100
 StyleGuideUI/static-3.109
 StyleGuideUI/static-3.136
 StyleGuideUI/static-3.98
+SubscribeToRss/
 SubscriptionLander
 SubscriptionPopup
 Summer06Widget
@@ -4432,6 +4422,8 @@ Themes/Client/app/img/favicons/manifest.json
 ThirdPartyRedirect
 ThorHammer
 TodaysLowestFaresAjax
+Tr/SocialMediaActivity/LogJSWidgetLinkClick
+Tracker?data=*
 Tracking/VerifyHuman
 TravelAdvice
 TravelMap-
@@ -4790,6 +4782,7 @@ a-guide-to-discreetly-traveling-with-weed-1850432640
 a-knight-s-tale
 a-league-of-their-own
 a-madea-christmas
+a-savoir-en-france
 a-visual-reference-for-six-basic-knife-cuts-1702149571
 a-womans-guide-to-learning-to-love-masturbation-1713950621
 a/*.*/about
@@ -4855,9 +4848,6 @@ about-wipo/*/assemblies/2019/a_59/statement_details.jsp
 about-wipo/*/assemblies/2019/a_59/statements.jsp
 about-wipo/*/dgo/
 about.html
-about/*/getting-started
-about/*/mobile
-about/*/update
 about/adrm/data-linkage
 about/board
 about/careers/applications-a/jobs/results
@@ -4935,7 +4925,6 @@ account-login
 account-prefs-change
 account-settings
 account-setup
-account-verification
 account.json
 account/
 account/accomplishments
@@ -4969,6 +4958,8 @@ account_settings/contributions/cancel_confirmation?
 account_settings/contributions?
 account_settings/disable_account$
 account_settings/disable_account?
+account_settings/manage_assets$
+account_settings/manage_assets?
 account_settings/manage_cookies$
 account_settings/manage_cookies?
 account_settings/manage_email$
@@ -5154,7 +5145,6 @@ admin/?context=
 admin?context
 admin?context=
 administration
-administrator
 adobe/*/HEAD/tree/trunk/$
 adobe/*/tree
 adobe/dynamicmedia/deliver/
@@ -5419,7 +5409,7 @@ apdata
 api
 api*.do
 api*?hl=
-api*?hl=http://adssettings.google.com/robots.txt
+api*?hl=http://airbnb.com/robots.txt
 api-keys
 api-proxy
 api-web
@@ -5436,6 +5426,7 @@ api/?
 api/_ajax/*
 api/article-search
 api/attachments
+api/auth
 api/auth/signup
 api/billing
 api/billing$
@@ -5467,6 +5458,7 @@ api/public_content
 api/recaptcha/enabled
 api/recommend/embed_videos
 api/records/*/files
+api/records/*/files-archive
 api/rest_v1/?doc
 api/share/og
 api/share/settings
@@ -5495,12 +5487,14 @@ api/v1/marketplace/designers/?page=
 api/v1/marketplace/made-in-webflow
 api/v1/playback
 api/v1/trebuchet
+api/v2
 api/v2/attachments
 api/v2/boards/*/reserved_posts
 api/v2/feed
 api/v2/google_place_photos
 api/v2/help_center/*/articles/*/stats/view
 api/v2/help_center/community/posts/*/stats/view
+api/v3
 api/v3/LandingPageStaysQuery
 api/v3/ab_tests
 api/v3/account
@@ -5589,6 +5583,7 @@ ar-ar/search
 ar-ar/searchresults
 ar-eg/
 ar-sa/
+ar/
 ar/$
 ar/*
 ar/Download
@@ -5771,6 +5766,7 @@ astronomy/moon/distance.html?year=2027
 astronomy/moon/distance.html?year=2028
 astronomy/moon/light.html?
 astronomy/moon/light.html?iso
+async
 async-create-search-page-state
 async_info/base_data
 at
@@ -5993,7 +5989,7 @@ audible-hug-alert
 audible-sample-player
 audible_programs=
 audiblehug
-audio-edition-podcast/*/index.xmlhttp://ecrs.com/robots.txt
+audio-edition-podcast/*/index.xmlhttp://eff.org/robots.txt
 audio.html
 audio?performer=1&q=
 audio_news
@@ -6021,7 +6017,6 @@ authentication
 authentication$
 authentication/signin
 authenticity-guarantee
-authkey=
 author
 author/
 author/*/date
@@ -6138,6 +6133,7 @@ backstage/bbc-login-help$
 bad-boys
 bad-boys-ii
 badges/profile/create
+bag
 baidu
 bal/impression
 bal/impression/RecordImpression.htm?
@@ -6288,6 +6284,7 @@ bfp/search
 bg
 bg-BG/$
 bg-bg/
+bg/
 bg/Download
 bgmt
 bgpoxy
@@ -6406,7 +6403,7 @@ blog/*?text=
 blog/*sitemap.xml$
 blog/*utm_source=
 blog/.
-blog/.html.*http://samsung.com/robots.txt
+blog/.html.*http://schema.org/robots.txt
 blog/10-lessons-from-an-engineering-manager/$
 blog/2025-shifting-roles-report/$
 blog/23-prototyping-resources-to-bookmark-right-now/$
@@ -6817,6 +6814,7 @@ blog/https-blog-figma-com-microsoft-automates-design-handoff-with-figmas-api/$
 blog/icymi-an-overview-of-figmas-feature-release-week/$
 blog/idc-design-population-study/$
 blog/illuminating-dark-mode/$
+blog/improving-performance-in-the-layers-panel/$
 blog/improving-scrolling-comments-in-figma/$
 blog/in-conversation-dylan-field-and-garry-tan/$
 blog/in-good-company-agencies-freelancers/$
@@ -7284,6 +7282,7 @@ board_activity
 board_activity_comment
 boardinvited
 boerse/data
+bons-plans
 boo-2-a-madea-halloween
 boo-a-madea-halloween
 book
@@ -7316,7 +7315,6 @@ books?*qtid=
 books?*zoom=
 books?*zoom=1
 books?*zoom=5
-bookshelf
 boomerang
 boutique/sitemaps
 bp
@@ -7361,18 +7359,16 @@ bricks/image
 bridesmaids
 bring-back-dry-humping-1727214132
 bring-these-snacks-to-your-next-protest-1843825938
+brouillon
 browse
 browse-2
 browse-restricted-websites-with-virtual-browser-146724
-browse.aspx
 browse/homes/all
-browse/more_page
 browse/reviews/recent
 browseNode=*&node=
 browseNode=*&page=
 browseReviews
 browse_
-browse_content
 browser/tutorials
 browsers
 brw
@@ -7694,7 +7690,7 @@ ca/conversations
 ca/en
 ca/en/*.PDF
 ca/en/*.pdf
-ca/en/testing-area/*
+ca/en/testing-area
 ca/filter/tips
 ca/fr
 ca/fr/*.PDF
@@ -8063,7 +8059,7 @@ cdn-cgi
 cdn-cgi/
 cdn-cgi/bm/cv
 cdn-cgi/challenge-platform
-cdn-cgi/http://medium.com/robots.txt
+cdn-cgi/http://meetup.com/robots.txt
 cdn-cgi/images/trace
 cdn-cgi/l/email-protection
 cdn-cgi/rum
@@ -8075,6 +8071,7 @@ cdn-cgi/zaraz/http://dell.com/robots.txt
 cdn-proxy/pim
 cdn-proxy/px
 cdn.jwplayer.com/previews
+cdn/assets
 cdn/assets/favicon
 cdn/wpm/*.js
 cds/media
@@ -8214,7 +8211,6 @@ charts/PDF/Unicode-7.0
 charts/PDF/Unicode-8.0
 charts/PDF/Unicode-9.0
 charts/beta
-chase-sapphire
 chat
 chat-completions
 chat/
@@ -8229,7 +8225,7 @@ checkForm=
 checkout
 checkout-external
 checkout/package
-checkouthttp://moderncalculators.com/robots.txt
+checkouthttp://moskva.stroi-podryad.ru/robots.txt
 checkoutnow
 checkouts
 checkpoint
@@ -8322,7 +8318,6 @@ cldr/utility
 clea/
 clean$
 clean-sticky-playing-cards-with-cornstarch-1745395020
-cli
 click
 click*
 clickId=
@@ -8941,7 +8936,6 @@ compliance/security-assurance-faq-8
 compliance/security-assurance-faq-9
 compliance/security-assurance-faq-complete
 compliance/third-party-access/
-components
 components/collaboration/api
 composer.json
 composer.lock
@@ -9115,7 +9109,7 @@ content/dam/pwc/uk/en/assets/pdf/hcl_f2.18.pdf
 content/dam/pwc/uk/en/business-recovery/administrations/assets/hcl_
 content/dam/pwc/uk/en/business-recovery/administrations/assets/hcl_%20annual%20report.pdf
 content/dam/pwc/uk/en/business-recovery/administrations/assets/hcl_reportnotice_20171023.pdf
-content/dam/pwc/uk/en/premium/*
+content/dam/pwc/uk/en/premium
 content/dam/pwc/uk/en/who-we-are/supplier-policies
 content/dam/web/da_dk/www
 content/dam/web/de_ch/www
@@ -9162,19 +9156,19 @@ content/nvidiaGDC.*\.(?!png|jpg|svg).+$
 content/pdf/10.1007/978-94-6209-446-8_8.pdf
 content/pdf/bbm
 content/pdf/bfm
-content/pwc/global/forms/contactUsNew.html?*
-content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/de/*
-content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/jp/ja/*
-content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/pl/*
-content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/se/en/*
-content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/se/sv/*
+content/pwc/global/forms/contactUsNew.html?
+content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/de
+content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/jp/ja
+content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/pl
+content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/se/en
+content/pwc/global/forms/contactUsNew.html?parentPagePath=/content/pwc/se/sv
 content/pwc/script/gx/en/live-search/v60.js
 content/ru_ru/
 content/search
 content/telegraph
 content/temp/*
 content/websites/languages
-content/websites/us/en/noindex/*http://xcelab.net/robots.txt
+content/websites/us/en/noindex/*http://x.com/robots.txt
 content_reporting
 content_title=
 contest
@@ -9376,6 +9370,7 @@ cs-cz/
 cs-cz/lp$
 cs-cz/lp/contact-us
 cs-cz/lp/homepage$
+cs/
 cs/android/collections
 cs/android/search
 cs/firefox/collections
@@ -9408,6 +9403,7 @@ ctm
 culturalinstitute/images
 culturalinstitute/sitemaps
 culturalinstitute/stella
+culture
 culture/404_en.htm
 culture/projects/projects
 culture/staff/staff
@@ -9552,6 +9548,7 @@ d=pro
 da-DK/$
 da-dk*/lp
 da-dk/
+da/
 da/kb
 da/search/
 da/search/default.mi
@@ -9675,6 +9672,7 @@ de-de/blog/figma-buzz/$
 de-de/blog/figma-design/$
 de-de/blog/figma-draw-scatter-brushes/$
 de-de/blog/figma-draw/$
+de-de/blog/figma-make/$
 de-de/blog/figma-mcp/$
 de-de/blog/figma-on-figma-evolving-our-visual-language/$
 de-de/blog/figma-sites/$
@@ -9811,10 +9809,12 @@ de-de/customers/how-figma-helped-design-agency-ennostudio/$
 de-de/customers/how-figma-helped-non-designers-at-contentsquare-become-design-angels/$
 de-de/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 de-de/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+de-de/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 de-de/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 de-de/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 de-de/customers/how-flipster-designs-for-speed-scale-and-stability/$
 de-de/customers/how-free-builds-consistent-customer-experiences/$
+de-de/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 de-de/customers/how-hellofresh-built-a-design-system/$
 de-de/customers/how-king-brings-game-design-together/$
 de-de/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -10129,6 +10129,7 @@ de-de/resource-library/how-to-create-a-project-status-report/$
 de-de/resource-library/how-to-write-smart-goals/$
 de-de/resource-library/ideen-fuer-das-layout-einer-website/$
 de-de/resource-library/instagram-photo-size/$
+de-de/resource-library/ki-app-builder/$
 de-de/resource-library/linkedin-size-guide/$
 de-de/resource-library/mindmap-anleitung/$
 de-de/resource-library/mindmap-beispiele/$
@@ -10150,6 +10151,7 @@ de-de/resource-library/twitter-banner-size/$
 de-de/resource-library/typografie-im-design/$
 de-de/resource-library/ui-designprinzipien/$
 de-de/resource-library/unterschied-zwischen-ui-und-ux/$
+de-de/resource-library/vibe-coding-tools/$
 de-de/resource-library/was-ist-ein-anwendungsfall/$
 de-de/resource-library/was-ist-wireframing/$
 de-de/resource-library/webdesign-trends/$
@@ -10551,7 +10553,6 @@ demo/$
 demonstration
 demos/dev-mode-design/$
 demos/dev-mode-developers/$
-denver
 deseat-me-finds-and-helps-you-delete-random-accounts-yo-1789840847
 design
 design-handoff/$
@@ -10857,24 +10858,6 @@ docs/search_results.html
 docs/socialmarkup
 doctor-strange
 document
-document/comments
-document/create
-document/delete
-document/download
-document/edit
-document/embed_generator
-document/embed_generator_code
-document/forward
-document/forward_mail
-document/inappropriate
-document/progress
-document/rating
-document/readers
-document/search
-document/search_text
-document/tag
-document/view_more
-document/views
 document_viewer/build_vu_embeds
 documentation/
 documentation/alexa-top-sites/
@@ -10940,12 +10923,12 @@ downloadHistory
 download_file
 download_history.mhtml$
 downloadassets
-downloadaszip
 downloadimage.aspx
 downloads
 downloads.php
 downloads/$
 downloads/*
+downloads/chrome-extension/$
 downloadtype.aspx
 dp/e-mail-friend
 dp/manual-submit
@@ -11117,6 +11100,7 @@ el-gr/
 el-gr/lp$
 el-gr/lp/contact-us
 el-gr/lp/homepage$
+el/
 el/android/collections
 el/android/search
 el/firefox/collections
@@ -11130,6 +11114,7 @@ el/search/default.mi
 elastictranscoder/2012-09-25
 elearning/
 election-results-data
+elections/resultats
 electrode/api/logger
 element/*goodbye
 element/?
@@ -11183,7 +11168,6 @@ embed_iframe
 embed_js
 embeddable
 embedded
-embedservererror.aspx
 embedvideo.cms*
 embrace-the-supernatural-how-superstitions-placebos-a-5907299
 embrace-the-swedish-lagom-lifestyle-to-reduce-stress-1819730614
@@ -11845,6 +11829,10 @@ en-zw
 en-zw/lp$
 en-zw/lp/contact-us
 en-zw/lp/homepage$
+en/JSWidget/
+en/JSWidgetFeed/
+en/StockQuote/
+en/Tracker?data=*
 en/US/docs/general/Test
 en/US/swassets/
 en/US/swassets/sw274/sitewide_country_language_selector.html
@@ -11867,6 +11855,7 @@ en/funding?
 en/group
 en/help/126238-pricing-faqs-legacy-guide
 en/help/142642-old-vs-new-pricing
+en/internaljustice/files
 en/library?
 en/microsoft-365
 en/microsoft-365/
@@ -13021,9 +13010,11 @@ es-es/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 es-es/customers/how-enterprise-teams-get-design-to-code-faster-with-figma/$
 es-es/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 es-es/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+es-es/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 es-es/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 es-es/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 es-es/customers/how-flipster-designs-for-speed-scale-and-stability/$
+es-es/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 es-es/customers/how-hellofresh-built-a-design-system/$
 es-es/customers/how-king-brings-game-design-together/$
 es-es/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -13173,6 +13164,7 @@ es-es/resource-library/$
 es-es/resource-library/combinaciones-cromaticas/$
 es-es/resource-library/como-disenar-un-logotipo/$
 es-es/resource-library/como-disenar-una-aplicacion/$
+es-es/resource-library/creadores-de-aplicaciones-ia/$
 es-es/resource-library/diagramas-de-alineacion-explicados/$
 es-es/resource-library/diferencia-entre-ui-y-ux/$
 es-es/resource-library/ejemplos-de-folletos/$
@@ -13185,6 +13177,7 @@ es-es/resource-library/flujo-de-usuarios/$
 es-es/resource-library/fuentes-minimalistas/$
 es-es/resource-library/fuentes-modernas/$
 es-es/resource-library/google-display-ad-sizes/$
+es-es/resource-library/herramientas-vibe-coding/$
 es-es/resource-library/ideas-de-disposicion-de-sitios-web/$
 es-es/resource-library/instagram-photo-size/$
 es-es/resource-library/las-mejores-fuentes-para-miniaturas/$
@@ -13483,9 +13476,11 @@ es-la/customers/how-design-systems-in-figma-are-unifying-diverse-teams-at-orange
 es-la/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 es-la/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 es-la/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+es-la/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 es-la/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 es-la/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 es-la/customers/how-flipster-designs-for-speed-scale-and-stability/$
+es-la/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 es-la/customers/how-hellofresh-built-a-design-system/$
 es-la/customers/how-king-brings-game-design-together/$
 es-la/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -13600,6 +13595,7 @@ es-la/resource-library/combinaciones-de-colores/$
 es-la/resource-library/como-disenar-un-logotipo/$
 es-la/resource-library/como-disenar-una-app/$
 es-la/resource-library/como-hacer-mapa-mental/$
+es-la/resource-library/creadores-de-apps-ia/$
 es-la/resource-library/descripcion-del-problema/$
 es-la/resource-library/diagramas-de-alineacion-explicados/$
 es-la/resource-library/diferencia-entre-ui-y-ux/$
@@ -13612,6 +13608,7 @@ es-la/resource-library/flujo-de-usuarios/$
 es-la/resource-library/fuentes-minimalistas/$
 es-la/resource-library/fuentes-modernas/$
 es-la/resource-library/google-display-ad-sizes/$
+es-la/resource-library/herramientas-vibe-coding/$
 es-la/resource-library/ideas-de-disposicion-de-sitios-web/$
 es-la/resource-library/instagram-photo-size/$
 es-la/resource-library/linkedin-size-guide/$
@@ -13738,6 +13735,7 @@ es-vg
 es-vi
 es-xl/
 es-xl/motivator/
+es/
 es/$
 es/%C3%BAnete
 es/*
@@ -14064,6 +14062,7 @@ estimates
 estimates/*/client
 et-EE/$
 et-ee/
+et/
 et_gdpr_callback_js/*
 et_gdpr_js/minify-1,v-14.cms*
 et_onetap_signin_js/*
@@ -14276,7 +14275,6 @@ fastajax/order
 fastajax/order/tax
 fastajax/order/tax/validatevat
 fastanswers
-fatalerror.html
 faves-i_love_u_get_away_from_me
 favicon.ico
 favicon.icohttp://blog.google/robots.txt
@@ -14345,8 +14343,6 @@ festival/*/shoutbox
 fetch
 fetch/next/mural
 fetch/next/mural?
-fetch/quick-rating-widgets
-fetch/tag
 fg_ab=
 fg_lz=
 fi-FI/$
@@ -14412,6 +14408,7 @@ fi-fi/
 fi-fi/lp$
 fi-fi/lp/contact-us
 fi-fi/lp/homepage$
+fi/
 fi/*
 fi/Download
 fi/android/collections
@@ -14509,7 +14506,7 @@ find-the-right-bpm-for-your-perfect-running-playlist-wi-5927390
 find-the-right-replacement-nut-or-bolt-via-photo-using-1827785812
 find-the-wifi-password-for-almost-any-airport-lounge-us-1841119770
 find/
-find/*http://frontiersin.org/robots.txt
+find/*http://freepik.com/robots.txt
 findCityAjax.htm
 finetune
 fios
@@ -14528,7 +14525,6 @@ five-umami-bombs-you-should-always-have-stocked-in-your-1794269578
 five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935
 five-years-of-figma/$
 fix-a-credit-card-that-wont-swipe-with-a-piece-of-tape-5871616
-fix-emails
 fix-it
 fix-sliding-doors-that-wont-close-with-a-couple-magnets-1642225618
 fix-static-and-popping-on-stereo-volume-knobs-342728
@@ -16330,6 +16326,8 @@ foodordering
 fool/free-report
 foolPics
 foolpics
+football
+football-sitemap.xml
 for-sale-by-owner/?zpid=
 for-the-love-of-god-please-stop-liking-all-my-texts-1846690976
 foreclosures
@@ -16802,10 +16800,12 @@ fr-fr/customers/how-figma-helped-design-agency-ennostudio/$
 fr-fr/customers/how-figma-helped-non-designers-at-contentsquare-become-design-angels/$
 fr-fr/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 fr-fr/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+fr-fr/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 fr-fr/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 fr-fr/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 fr-fr/customers/how-flipster-designs-for-speed-scale-and-stability/$
 fr-fr/customers/how-free-builds-consistent-customer-experiences/$
+fr-fr/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 fr-fr/customers/how-hellofresh-built-a-design-system/$
 fr-fr/customers/how-king-brings-game-design-together/$
 fr-fr/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -16968,6 +16968,7 @@ fr-fr/resource-library/combinaisons-de-couleurs/$
 fr-fr/resource-library/comment-concevoir-un-logo/$
 fr-fr/resource-library/comment-concevoir-une-application/$
 fr-fr/resource-library/comment-faire-carte-mentale/$
+fr-fr/resource-library/createurs-applications-ia/$
 fr-fr/resource-library/daily-stand-up/$
 fr-fr/resource-library/design-lessons/$
 fr-fr/resource-library/difference-entre-ui-et-ux/$
@@ -16990,6 +16991,7 @@ fr-fr/resource-library/linkedin-size-guide/$
 fr-fr/resource-library/meilleures-polices-de-miniature/$
 fr-fr/resource-library/meilleures-polices-pour-logos/$
 fr-fr/resource-library/meilleures-polices-pour-sites-web/$
+fr-fr/resource-library/outils-vibe-coding/$
 fr-fr/resource-library/pinterest-image-sizes/$
 fr-fr/resource-library/polices-minimalistes/$
 fr-fr/resource-library/polices-modernes/$
@@ -17235,7 +17237,14 @@ fr/*locationQuery=
 fr/*max=
 fr/*min=
 fr/*my_etsy=
+fr/Home/404Page
+fr/JSWidget/
+fr/JSWidgetFeed/
+fr/Ne/
 fr/README.md
+fr/StockQuote/
+fr/Tr/
+fr/Tracker?data=*
 fr/about
 fr/account
 fr/acq
@@ -17261,6 +17270,7 @@ fr/c/*price_bucket=
 fr/c/*search_type=
 fr/c/*ship_to=
 fr/c?*attr_*=
+fr/ca/
 fr/campaigns
 fr/cart
 fr/client-clearing
@@ -17327,6 +17337,7 @@ fr/index.php/user/password
 fr/index.php/user/register
 fr/integrations
 fr/invites/buy
+fr/js/
 fr/kb
 fr/label
 fr/layer2
@@ -17369,6 +17380,7 @@ fr/no-follow
 fr/node
 fr/ott
 fr/people
+fr/ph/
 fr/phenom
 fr/player
 fr/playlist
@@ -17426,6 +17438,7 @@ fr/total-leadership
 fr/transactions
 fr/treasury
 fr/upload
+fr/us/
 fr/user
 fr/user/login
 fr/user/logout
@@ -17435,6 +17448,7 @@ fr/verify
 fr/vimeo-academy
 fr/web.config
 fr/your
+fr/zi/
 fr_fr
 fr_fr/creer
 fr_fr/decouvrir
@@ -17448,7 +17462,6 @@ france/ie/default.asp?
 france/mnp_utility.mspx?
 franchise/
 free
-free-account-onboarding
 free-report
 free-tools/plagiarism-checker/?q=
 free-trial
@@ -17501,7 +17514,7 @@ fy-NL/firefox/collections/mozilla
 fy-NL/firefox/collections/mozilla/$
 fy-NL/firefox/search
 g
-g/4arE9Chttp://flickr.com/robots.txt
+g/4arE9Chttp://flipboard.com/robots.txt
 g/api
 ga-actions/formie/forms/refresh-tokens
 ga/p
@@ -17855,7 +17868,6 @@ graduation/?s=
 grafico
 grafico-del-dia
 graph
-graph-api
 graphics
 graphique-du-jour
 graphql
@@ -17872,7 +17884,6 @@ groupAnswers
 groupSharingMsg
 groupcallembed/*
 groups
-groups/
 groups/*/-/analytics
 groups/*/-/billings
 groups/*/-/contribution_analytics
@@ -17973,6 +17984,7 @@ hd
 he-il/
 he-il/search
 he-il/searchresults
+he/
 he/android/collections
 he/android/search
 he/firefox/collections
@@ -18277,6 +18289,7 @@ hi-in/ux-design-tool/$
 hi-in/web-design/$
 hi-in/web-development/$
 hi-in/wireframe-tool/$
+hi/
 hi/search/
 hi/search/default.mi
 hi_in
@@ -18963,9 +18976,9 @@ html/story
 html5
 http
 http2_data
-http://15721.courses.cs.cmu.edu/robots.txt
-http://alexa.com/robots.txt
-http://aliexpress.com/robots.txt
+http://161.ru/robots.txt
+http://akparti.org.tr/robots.txt
+http://aljazeera.com/robots.txt
 http://amazon.co.jp/robots.txt
 http://amazon.co.uk/robots.txt
 http://amazon.com/robots.txt
@@ -18975,34 +18988,34 @@ http://amazon.fr/robots.txt
 http://amazon.in/robots.txt
 http://amazon.it/robots.txt
 http://ameblo.jp/robots.txt
-http://apps.apple.com/robots.txt
-http://economist.com/robots.txt
+http://apple.com/robots.txt
+http://eepurl.com/robots.txt
 http://en.m.wikipedia.org/robots.txt
 http://gist.github.com/robots.txt
+http://gopro.com/robots.txt
 http://govostis.gr/robots.txt
-http://groupon.com/robots.txt
-http://healthtips1dr.blogspot.com/robots.txt
-http://img1.wsimg.com/robots.txt
+http://haveibeenpwned.com/robots.txt
+http://img.youtube.com/robots.txt
 http://irishtimes.com/robots.txt
 http://kickstarter.com/robots.txt
-http://namecheap.com/robots.txt
+http://nature.com/robots.txt
 http://newsinitiative.withgoogle.com/robots.txt
-http://patreon.com/robots.txt
-http://pixiv.net/robots.txt
-http://python.org/robots.txt
-http://seekingalpha.com/robots.txt
-http://sites.google.com/robots.txt
-http://smithsonianmag.com/robots.txt
+http://patents.google.com/robots.txt
+http://pixabay.com/robots.txt
+http://qualtrics.com/robots.txt
+http://semrush.com/robots.txt
+http://siteground.com/robots.txt
+http://snipfeed.co/robots.txt
 http://static.wixstatic.com/robots.txt
 http://techradar.com/robots.txt
-http://thelancet.com/robots.txt
-http://threads.net/robots.txt
+http://themeforest.net/robots.txt
+http://tiktok.com/robots.txt
 http://translate.google.com/robots.txt
 http://upload.wikimedia.org/robots.txt
 http://use.fontawesome.com/robots.txt
 http://vox.com/robots.txt
-http://w3techs.com/robots.txt
-http://weebly.com/robots.txt
+http://wa.me/robots.txt
+http://weforum.org/robots.txt
 http://wish.com/robots.txt
 https://player.cnevids.com
 https:/www.alibaba.com
@@ -19010,6 +19023,7 @@ hu
 hu-HU/$
 hu-hu
 hu-hu/
+hu/
 hu/Download
 hu/android/collections
 hu/android/search
@@ -19040,6 +19054,7 @@ hubs_post-cta=*&utm_
 hubs_signup-cta
 hy-AM/$
 hy-am/
+hy/
 hy_am
 hybe_stories/
 hz/contact-us/ajax/initiate-trusted-contact
@@ -19126,6 +19141,8 @@ id-id/pengembangan-web/$
 id-id/pricing-faq/$
 id-id/pricing/$
 id-id/professional/$
+id-id/resource-library/alat-vibe-coding/$
+id-id/resource-library/pembuat-aplikasi-ai/$
 id-id/resource-library/tren-desain-web/$
 id-id/search
 id-id/searchresults
@@ -19155,6 +19172,7 @@ id-id/solusi/pembuat-spanduk/$
 id-id/solusi/pembuat-spanduk/linkedin/$
 id-id/solusi/pembuat-website-ai/$
 id-id/templates/$
+id/
 id/account
 id/ada-lowongan
 id/ada-lowongan/job-posts
@@ -19234,7 +19252,7 @@ ie/cart
 ie/conversations
 ie/en
 ie/en
-ie/en/eloqua/*
+ie/en/eloqua
 ie/filter/tips
 ie/guest-pass
 ie/help/sitemap
@@ -19567,33 +19585,12 @@ index.php/admin/?context
 index.php/admin/?context=
 index.php/admin?context
 index.php/admin?context=
-index.php/bookshelf
-index.php/browse/more_page
 index.php/comment/reply
 index.php/comment/reply/
 index.php/comment/reply/?context
 index.php/comment/reply/?context=
 index.php/comment/reply?context
 index.php/comment/reply?context=
-index.php/document/comments
-index.php/document/create
-index.php/document/delete
-index.php/document/edit
-index.php/document/embed_generator
-index.php/document/embed_generator_code
-index.php/document/forward
-index.php/document/forward_mail
-index.php/document/inappropriate
-index.php/document/json
-index.php/document/json2
-index.php/document/progress
-index.php/document/rating
-index.php/document/readers
-index.php/document/search
-index.php/document/search_text
-index.php/document/tag
-index.php/document/view_more
-index.php/document/views
 index.php/es/node/
 index.php/filter/tips
 index.php/filter/tips
@@ -19604,7 +19601,6 @@ index.php/filter/tips?context=
 index.php/fusion-search
 index.php/ht/node/
 index.php/ko/node/
-index.php/magazine/get_comment
 index.php/media/oembed
 index.php/media/oembed
 index.php/media/oembed/?context
@@ -19628,9 +19624,6 @@ index.php/search?context
 index.php/search?context=
 index.php/site-search
 index.php/system/files/documents/noindex
-index.php/upload/analyse
-index.php/upload/cloud
-index.php/upload/forgot_password
 index.php/user/login
 index.php/user/login
 index.php/user/login/
@@ -19659,7 +19652,6 @@ index.php/user/register/?context
 index.php/user/register/?context=
 index.php/user/register?context
 index.php/user/register?context=
-index.php/utils
 index.php/vi/node/
 index.php/zh-hans/node/
 index.php/zh-hant/node/
@@ -19708,9 +19700,10 @@ install
 install-shuffles
 install-snow-leopard-on-your-hackintosh-pc-no-hacking-5360150
 install.php
-installation
 instant-offers/version
 instantly-select-text-with-similar-formatting-in-google-5949887
+insurance/*/match
+insurance/auto/m
 int/Free_For_Mem
 int_search_summary
 intake
@@ -19835,6 +19828,7 @@ is-it-safer-to-place-your-ps5-or-xbox-series-x-vertical-1848090814
 is-my-boyfriend-secretly-using-my-sex-toys-1820019071
 is-my-daughter-too-obsessed-with-her-bff-1846701892
 is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214
+is/
 isapi/
 isbn
 isdh/drafts_local
@@ -19881,7 +19875,9 @@ it-it/customers/how-design-systems-in-figma-are-unifying-diverse-teams-at-orange
 it-it/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 it-it/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 it-it/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+it-it/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 it-it/customers/how-findable-moved-50-percent-faster-with-figma-make/$
+it-it/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 it-it/customers/how-hellofresh-built-a-design-system/$
 it-it/customers/how-king-brings-game-design-together/$
 it-it/customers/how-nio-innovated-and-delivered-at-speed-using-figma/$
@@ -19937,6 +19933,7 @@ it-it/pricing/$
 it-it/product-managers/$
 it-it/professional/$
 it-it/prototipazione/$
+it-it/reports/$
 it-it/reports/design-hiring-study-2026/$
 it-it/reports/state-of-the-designer-2026/$
 it-it/resource-library/$
@@ -19947,6 +19944,7 @@ it-it/resource-library/come-creare-una-mappa-mentale/$
 it-it/resource-library/come-progettare-un-app/$
 it-it/resource-library/come-progettare-un-logo/$
 it-it/resource-library/cos-e-il-wireframing/$
+it-it/resource-library/costruttori-di-app-ai/$
 it-it/resource-library/definizione-del-problema/$
 it-it/resource-library/differenza-tra-ui-e-ux/$
 it-it/resource-library/esempi-di-brochure/$
@@ -19961,6 +19959,7 @@ it-it/resource-library/idee-per-layout-di-siti-web/$
 it-it/resource-library/migliori-font-per-loghi/$
 it-it/resource-library/migliori-font-per-siti-web/$
 it-it/resource-library/principi-design-ui/$
+it-it/resource-library/strumenti-vibe-coding/$
 it-it/resource-library/tendenze-web-design/$
 it-it/resource-library/tipi-di-diagrammi-di-flusso/$
 it-it/resource-library/tipografia-nel-design/$
@@ -20001,6 +20000,7 @@ it-it/tools/$
 it-it/ventures/$
 it-it/web-design/$
 it-s-complicated
+it/
 it/*
 it/*/media/oembed
 it/*?order=
@@ -20308,6 +20308,7 @@ ja-jp/blog/figma-buzz/$
 ja-jp/blog/figma-design/$
 ja-jp/blog/figma-draw-scatter-brushes/$
 ja-jp/blog/figma-draw/$
+ja-jp/blog/figma-make/$
 ja-jp/blog/figma-mcp/$
 ja-jp/blog/figma-on-figma-evolving-our-visual-language/$
 ja-jp/blog/figma-sites/$
@@ -20436,9 +20437,11 @@ ja-jp/customers/how-design-systems-in-figma-are-unifying-diverse-teams-at-orange
 ja-jp/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 ja-jp/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 ja-jp/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+ja-jp/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 ja-jp/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 ja-jp/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 ja-jp/customers/how-flipster-designs-for-speed-scale-and-stability/$
+ja-jp/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 ja-jp/customers/how-king-brings-game-design-together/$
 ja-jp/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
 ja-jp/customers/how-nio-innovated-and-delivered-at-speed-using-figma/$
@@ -20564,6 +20567,7 @@ ja-jp/reports/the-business-value-of-design-systems/$
 ja-jp/reports/the-developer-pulse/$
 ja-jp/reports/your-handbook-to-scaling/$
 ja-jp/resource-library/$
+ja-jp/resource-library/ai-app-builders/$
 ja-jp/resource-library/alignment-charts-explained/$
 ja-jp/resource-library/best-fonts-for-logos/$
 ja-jp/resource-library/best-fonts-for-thumbnails/$
@@ -20597,6 +20601,7 @@ ja-jp/resource-library/types-of-flow-charts/$
 ja-jp/resource-library/typography-in-design/$
 ja-jp/resource-library/ui-design-principles/$
 ja-jp/resource-library/user-flow/$
+ja-jp/resource-library/vibe-coding-tools/$
 ja-jp/resource-library/web-design-trends/$
 ja-jp/resource-library/website-layout-ideas/$
 ja-jp/resource-library/what-is-a-use-case/$
@@ -20714,6 +20719,7 @@ ja-jp/wireframe-tool/$
 ja-jp/wp-admin
 ja-jp/wp-admin/admin-ajax.php
 ja-jp/wp-content/uploads/sites/13/documents
+ja/
 ja/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3
 ja/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3
 ja/%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3
@@ -21167,9 +21173,11 @@ ko-kr/customers/how-design-systems-in-figma-are-unifying-diverse-teams-at-orange
 ko-kr/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 ko-kr/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 ko-kr/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+ko-kr/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 ko-kr/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 ko-kr/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 ko-kr/customers/how-flipster-designs-for-speed-scale-and-stability/$
+ko-kr/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 ko-kr/customers/how-hellofresh-built-a-design-system/$
 ko-kr/customers/how-king-brings-game-design-together/$
 ko-kr/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -21250,6 +21258,7 @@ ko-kr/reports/the-business-value-of-design-systems/$
 ko-kr/reports/the-developer-pulse/$
 ko-kr/reports/your-handbook-to-scaling/$
 ko-kr/resource-library/$
+ko-kr/resource-library/ai-app-builders/$
 ko-kr/resource-library/alignment-charts-explained/$
 ko-kr/resource-library/best-fonts-for-logos/$
 ko-kr/resource-library/best-fonts-for-thumbnails/$
@@ -21280,6 +21289,7 @@ ko-kr/resource-library/types-of-flow-charts/$
 ko-kr/resource-library/typography-in-design/$
 ko-kr/resource-library/ui-design-principles/$
 ko-kr/resource-library/user-flow/$
+ko-kr/resource-library/vibe-coding-tools/$
 ko-kr/resource-library/web-design-trends/$
 ko-kr/resource-library/website-layout-ideas/$
 ko-kr/resource-library/what-is-a-use-case/$
@@ -21375,6 +21385,7 @@ ko-kr/webinar/des-to-comp-mcp-ko-video/$
 ko-kr/webinars/des-to-code-mcp-ko/$
 ko-kr/webinars/improving-ai-code-gen/$
 ko-kr/wireframe-tool/$
+ko/
 ko/$
 ko/%EA%B0%80%EC%9E%85
 ko/%EA%B3%A0%EC%9A%A9-%EC%A4%91
@@ -21527,7 +21538,6 @@ landing/now/ontap
 landing/signout.html
 landscape
 lang
-language
 languages
 languages/404_en.htm
 lapi
@@ -21543,7 +21553,6 @@ launch2005/
 law-abiding-citizen
 layer2
 layout
-layouts
 lb
 lead-form
 leaf
@@ -21887,10 +21896,10 @@ lst/ng
 lstng
 lt
 lt-lt/
+lt/
 lt/$
 lt/*
 lt/Download
-ltdn-optout
 lu/*
 lu/agb
 lu/agb-0718
@@ -21923,6 +21932,7 @@ lux
 lv
 lv-LV/$
 lv-lv/
+lv/
 lv/Download
 lvx
 m
@@ -21958,7 +21968,6 @@ magazine/
 magazine/archive/2001/02/bill-clinton-and-his-consequences/303383
 magazine/archive/2001/02/bill-clinton-and-his-consequences/303383/$
 magazine/archive/2010/11/letters-to-the-editor/308258
-magazine/get_comment
 magazineName=
 magazines/Ip
 magazines/all-Ip
@@ -22139,7 +22148,6 @@ maps?sid=
 mapslt?
 mapspro
 mapview
-mar-optout
 marathi/
 marinate-all-of-your-pork-in-shio-koji-1831238644
 market
@@ -22428,8 +22436,6 @@ mobile/search
 mobile=no*
 mobile_login
 mobileformat=
-mobilepagenotfounderror.aspx
-mobileservererror.aspx
 mod
 mod.php
 mod=
@@ -22586,6 +22592,7 @@ mre/*view$
 mre/@@search
 ms-MY/$
 ms-my/
+ms/
 ms_my/buat
 msa
 msclkid=
@@ -22611,8 +22618,6 @@ mu_api
 multifamily-knowledge-center
 multiproduct
 multivu
-munin
-munin*http://podcasters.spotify.com/robots.txt
 muse/identity/v2/identity.js
 museumdays/accounts
 mushroom-garum-recipe-1850994225
@@ -22812,7 +22817,6 @@ naturecareers/jobs/search
 naturecareers/jobsrss
 naturecareers/session-img
 nautocomplete
-nav
 nav/
 nav/side-nav/
 nav/side-nav/products-services/
@@ -22837,6 +22841,7 @@ nb-NO/firefox/collections/mozilla
 nb-NO/firefox/collections/mozilla/$
 nb-NO/firefox/search
 nb-no/
+nb/
 nb_no/grafer
 nb_no/skape
 nbr/info/search.html?
@@ -22952,6 +22957,7 @@ news-events/events-calendar/2018/03/ninth-annual-african-consumer-protection-dia
 news-events/events-calendar/2019/05/tenth-annual-african-consumer-protection-dialogue-conference
 news-insider$
 news-redirect/*
+news-release/
 news/
 news/*/$
 news/*?page=
@@ -22994,10 +23000,11 @@ newsletter_rhs_js.cms*
 newsletter_rhs_js.cms?minify=1&version=30*
 newsletters
 newsletters/*
-newsletters/kiosk
 newspaper/archive
 newsroom/$
+newsroom/ctr
 newsroom/dae
+newsroom/rss/
 newsround
 newssearch
 newsstand
@@ -23104,6 +23111,7 @@ nl-nl/professional/$
 nl-nl/prototyping/$
 nl-nl/reports/ai-2025/$
 nl-nl/resource-library/$
+nl-nl/resource-library/ai-app-bouwers/$
 nl-nl/resource-library/beste-lettertypen-voor-logos/$
 nl-nl/resource-library/beste-lettertypen-voor-thumbnails/$
 nl-nl/resource-library/beste-lettertypen-voor-websites/$
@@ -23124,6 +23132,7 @@ nl-nl/resource-library/soorten-stroomdiagrammen/$
 nl-nl/resource-library/typografie-in-ontwerp/$
 nl-nl/resource-library/ui-ontwerpprincipes/$
 nl-nl/resource-library/verschil-tussen-ui-en-ux/$
+nl-nl/resource-library/vibe-coding-tools/$
 nl-nl/resource-library/voorbeelden-van-presentaties/$
 nl-nl/resource-library/wat-is-een-use-case/$
 nl-nl/resource-library/wat-is-wireframing/$
@@ -23141,6 +23150,7 @@ nl-nl/ventures/$
 nl-nl/webdesign/$
 nl-nl/webontwikkeling/$
 nl-nl/wireframe-tool/$
+nl/
 nl/*
 nl/*/media/oembed
 nl/*?order=
@@ -23300,6 +23310,7 @@ nn-NO/firefox/collections/4757633/$
 nn-NO/firefox/collections/mozilla
 nn-NO/firefox/collections/mozilla/$
 nn-NO/firefox/search
+nn/
 no
 no-en*/listing/*/favoriters
 no-en*/people/*/circle
@@ -23362,6 +23373,7 @@ no-follow
 no-joe-biden-isnt-8-feet-tall-and-other-camera-tricks-1846822104
 no-no*/lp
 no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018
+no/
 no/*
 no/Download
 no/en/*.PDF
@@ -23821,7 +23833,6 @@ pagead/js
 pagead/managed
 pagead/show_ads.js
 pageitem
-pagenotfounderror.aspx
 pages
 pages-extensions/FollowCompany
 pages/*&preview[
@@ -24081,7 +24092,6 @@ paid-content/news/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-
 paid-content/news/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi
 paid-content/news/why-tax-filers-are-choosing-h-r-block-this-season
 paid-posts
-paid-transfers-buyer-survey
 pancake-bread-pretty-much-makes-itself-1850507100
 panel
 panelweb
@@ -24151,7 +24161,6 @@ patents/related
 patents?
 patentscope/search/iasr
 patentscopedb/
-path,
 patterns
 pay
 pay/images/merchant_logos
@@ -24226,8 +24235,6 @@ people/pad$
 people/pad/$
 people/search
 people/search
-peopleoptions.aspx
-peopletags.aspx
 pepe
 percy-jackson-the-olympians-the-lightning-thief
 perfect-the-art-of-passive-aggressive-texting-1845495012
@@ -24407,9 +24414,11 @@ pl-pl/resource-library/jak-stworzyc-mape-mysli/$
 pl-pl/resource-library/jak-zaprojektowac-aplikacje/$
 pl-pl/resource-library/jak-zaprojektowac-logo/$
 pl-pl/resource-library/kombinacje-kolorows/$
+pl-pl/resource-library/kreatory-aplikacji-ai/$
 pl-pl/resource-library/minimalistyczne-czcionki/$
 pl-pl/resource-library/najlepsze-czcionki-do-logo/$
 pl-pl/resource-library/najlepsze-czcionki-do-stron-internetowych/$
+pl-pl/resource-library/narzedzia-vibe-coding/$
 pl-pl/resource-library/nowoczesne-czcionki/$
 pl-pl/resource-library/opis-problemu/$
 pl-pl/resource-library/pomysly-na-projektowanie-ukladu-strony-internetowej/$
@@ -24457,6 +24466,7 @@ pl-pl/tools/$
 pl-pl/tworzenie-stron-internetowych/$
 pl-pl/tworzenie-szkieletow/$
 pl-pl/ventures/$
+pl/
 pl/*
 pl/*?order=
 pl/*color=
@@ -24482,8 +24492,8 @@ pl/c/*ship_to=
 pl/c?*attr_*=
 pl/cart
 pl/conversations
-pl/en/ZZZ-archive/*
-pl/en/forms/*
+pl/en/ZZZ-archive
+pl/en/forms
 pl/en/pdf/*.PDF
 pl/en/pdf/*.pdf
 pl/event/*/shoutbox
@@ -24528,12 +24538,12 @@ pl/pdf-nf/*.PDF
 pl/pdf-nf/*.pdf
 pl/people
 pl/pl
-pl/pl/forms/*
+pl/pl/forms
 pl/pl/pdf/*.PDF
 pl/pl/pdf/*.pdf
-pl/pl/rfp/*
-pl/pl/zzz-archiwum/*
-pl/pl/zzz-testy/*
+pl/pl/rfp
+pl/pl/zzz-archiwum
+pl/pl/zzz-testy
 pl/player
 pl/search
 pl/search*attr_*=
@@ -24560,8 +24570,6 @@ pl_pl/szablony/M
 pl_pl/tworzyc
 place
 places
-places/*/add_photos
-places/*/edit
 plain-white-vinegar-is-the-dishwashing-hero-you-need-a-1825145938
 plan=
 plans
@@ -24602,7 +24610,6 @@ plus/experience/*/series
 plus/experience/dreamforce_2025_x_test
 plus/r
 plusinstall
-pm-optout
 pm/
 pm/amplify/
 pm/lambda/
@@ -24679,7 +24686,6 @@ popup
 popup?
 popup_manager_priority.cms*
 popup_security.jsp
-popups
 popups/mediaplayer
 popups/popup_gallery
 porady-zawodowe
@@ -24824,7 +24830,7 @@ privacy/zoho-group.html
 private
 private
 private-promo
-private/http://abc.net.au/robots.txt
+private/http://about.fb.com/robots.txt
 private/wtrack
 pro
 pro-help/q
@@ -24878,7 +24884,7 @@ product-integrations/figma-for-microsoft-teams/$
 product-integrations/google-workspace/$
 product-integrations/zoom/$
 product-managers/$
-product-ratings/http://wix.com/robots.txt
+product-ratings/http://woocommerce.com/robots.txt
 product-reviews/B0069IY63Y
 product/*
 product/electrode/api/logger
@@ -25272,9 +25278,11 @@ pt-br/customers/how-design-systems-in-figma-are-unifying-diverse-teams-at-orange
 pt-br/customers/how-deutsche-bank-redeveloped-all-front-end-apps-from-scratch/$
 pt-br/customers/how-figma-helped-to-increase-ux-maturity-at-dbs-bank/$
 pt-br/customers/how-figma-make-accelerates-empowers-product-managers-at-civica/$
+pt-br/customers/how-figma-make-helps-the-design-team-shape-decisions-at-accor/$
 pt-br/customers/how-findable-moved-50-percent-faster-with-figma-make/$
 pt-br/customers/how-flipkart-boosts-its-design-vision-for-indian-e-commerce-with-figma/$
 pt-br/customers/how-flipster-designs-for-speed-scale-and-stability/$
+pt-br/customers/how-grab-scales-hyperlocal-experiences-across-southeast-asia-with-figma-and-ai/$
 pt-br/customers/how-hellofresh-built-a-design-system/$
 pt-br/customers/how-king-brings-game-design-together/$
 pt-br/customers/how-knowit-connects-strategy-design-and-development-with-figma/$
@@ -25433,6 +25441,7 @@ pt-br/resource-library/combinacoes-de-fontes/$
 pt-br/resource-library/como-criar-um-app/$
 pt-br/resource-library/como-criar-um-logotipo/$
 pt-br/resource-library/como-fazer-mapa-mental/$
+pt-br/resource-library/criadores-de-apps-ia/$
 pt-br/resource-library/declaracao-de-problema/$
 pt-br/resource-library/diferenca-entre-ui-e-ux/$
 pt-br/resource-library/exemplos-de-apresentacoes/$
@@ -25440,6 +25449,7 @@ pt-br/resource-library/exemplos-de-folhetos/$
 pt-br/resource-library/exemplos-de-mapas-mentais/$
 pt-br/resource-library/exemplos-sites-portfolio/$
 pt-br/resource-library/facebook-size-guide/$
+pt-br/resource-library/ferramentas-vibe-coding/$
 pt-br/resource-library/fluxo-de-usuario/$
 pt-br/resource-library/fontes-minimalistas/$
 pt-br/resource-library/fontes-modernas/$
@@ -25545,6 +25555,7 @@ pt-pt/
 pt-pt/lp$
 pt-pt/lp/contact-us
 pt-pt/lp/homepage$
+pt/
 pt/*
 pt/*?order=
 pt/*color=
@@ -25760,7 +25771,6 @@ questions-to-ask-before-threesome-1850842094
 queue
 qui-sommes-nous
 quick-search
-quickadd.aspx
 quickcast
 quickfacts
 quickstart
@@ -25970,7 +25980,6 @@ removalrequest
 remove-excess-salt-from-nuts-by-shaking-them-in-a-paper-1704198119
 remove-favorite
 renders
-renewal-reminder-optout
 rent/guide
 rental-manager/?source=topnav&itc=postbutton_topnav
 rental-manager/?zpid=
@@ -26730,7 +26739,7 @@ rewardsapp/
 rfp
 ri_id=
 rip/
-rm/*
+rm
 rmp
 ro
 ro-RO/$
@@ -26740,6 +26749,7 @@ ro-md/lp/contact-us
 ro-md/lp/homepage$
 ro-ro
 ro-ro/
+ro/
 ro/*
 ro/Download
 ro/android/collections
@@ -26892,7 +26902,7 @@ ru/node/
 ru/player
 ru/pm/
 ru/professional-users
-ru/ru/materials/*
+ru/ru/materials
 ru/search
 ru/search/
 ru/search/autocomplete
@@ -27424,11 +27434,9 @@ seenMatchId=
 segments/*/compare
 select
 selectedImage*
-selectembed.aspx
 selectlocale-dmc?fromPage=
 selectpayment
 self-registration
-self.aspx
 sell/?
 sell/options
 seller_onboarding
@@ -27467,7 +27475,6 @@ server/check-olark-chat-support
 server/update-user-traffic-source
 server_error_pages/
 serverdown
-servererror.aspx
 service
 service-search/dist/images/loading.gif
 service-search/find-a-psychological-therapies-service/find-your-gp
@@ -27608,9 +27615,7 @@ shareables
 shared
 shared/
 shared/*?wtime
-sharedfavorite.aspx
 sharedmemories
-sharefavorite.aspx
 sharer
 sharer.php
 sharing
@@ -28104,6 +28109,7 @@ sk-sk/
 sk-sk/lp$
 sk-sk/lp/contact-us
 sk-sk/lp/homepage$
+sk/
 sk/*
 sk/Download
 sk/android/collections
@@ -28121,6 +28127,7 @@ skazki
 sketches
 sl-SI/$
 sl-si/
+sl/
 sl/*.html
 sl/*SellLikeItem
 sl/*bn_*?
@@ -28450,7 +28457,7 @@ sous-vide-your-own-excellent-cold-cuts-1839274016
 sp
 sp/2for1
 sp/3for2
-sp/http://nypost.com/robots.txt
+sp/http://nvidia.com/robots.txt
 sp=
 sp=0
 sp_url=
@@ -28795,7 +28802,6 @@ stream
 streamline-your-youtube-subscriptions-using-folders-1846094297
 stress-test-your-mac-with-the-yes-command-1564681908
 stride-is-an-addictive-territory-grabbing-game-for-runn-1847073736
-strpixel.png
 structure-your-day-with-the-3-3-3-method
 structure/?term=
 structured-content-renderer
@@ -28819,6 +28825,7 @@ studioapi
 studioapi/wasabi
 studios
 stuff-your-quesadilla-with-fried-chicken-1849426275
+style
 style-guide
 style/beauty/hearstmagazines
 style/fashion/hearstmagazines
@@ -29027,6 +29034,7 @@ sv-se*/lp
 sv-se/
 sv-se/search
 sv-se/searchresults
+sv/
 sv/event/*/shoutbox
 sv/event/*/shoutbox?
 sv/features
@@ -29089,6 +29097,7 @@ switch-your-luggage-to-inline-skate-wheels-for-better-d-1788664054
 sydney-white
 syndicate
 syndication_cookie_sync
+synsearch
 system
 system/
 system/cron/cron.txt
@@ -29116,7 +29125,7 @@ tag
 tag-manager
 tag-manager-360
 tag/
-tag/*+http://digital-strategy.ec.europa.eu/robots.txt
+tag/*+http://dinotim.com/robots.txt
 tag/*/page
 tag/credible
 tag/interaction-card
@@ -29193,7 +29202,6 @@ teachers/innovators/toolkit
 teachers/search/resources/?q=
 tealeaf
 tealium
-team/join
 teamplain/
 teams
 tech
@@ -29461,6 +29469,7 @@ tech/how-duckduckgos-new-encrypted-voice-ai-chat-compares-with-chatgpt-and-gemin
 tech/how-i-turned-my-iphone-into-a-dumbphone
 tech/how-much-amazon-alexa-plus-costs
 tech/how-the-apple-watch-series-11-stacks-up-against-ultra-3
+tech/how-to-actually-get-good-videos-at-a-concert-with-the-samsung-galaxy-s26
 tech/how-to-actually-own-your-movies-and-tv-shows-in-2026-retro-tech
 tech/how-to-add-custom-words-to-your-iphone-dictionary
 tech/how-to-add-fonts-to-google-docs
@@ -30324,7 +30333,6 @@ templates/x-matrix-template/$
 templates/yearly-calendar-template/$
 temporary_marketing_proxy/*
 temptation-island
-ter-optout
 termini-e-condizioni
 termos-e-condicoes
 terms
@@ -30357,7 +30365,7 @@ test/diagnostic-tool
 test_community
 testfl
 testgpr
-testhttp://moskva.stroi-podryad.ru/robots.txt
+testhttp://moz.com/robots.txt
 testing
 testpage-forhomepage
 tests
@@ -30402,6 +30410,7 @@ th-th/pricing/$
 th-th/product-development/$
 th-th/professional/$
 th-th/prototyping/$
+th-th/resource-library/vibe-coding-tools/$
 th-th/resource-library/web-design-trends/$
 th-th/search
 th-th/searchresults
@@ -30434,6 +30443,7 @@ th-th/ux-design-tool/$
 th-th/web-design/$
 th-th/web-development/$
 th-th/wireframe-tool/$
+th/
 th/*
 th/*/media/oembed
 th/Download
@@ -30759,6 +30769,7 @@ tkn/*
 tkt
 tl/$
 tlaAppCB
+tldr
 tlqa
 tmall
 tmn/ccs
@@ -30962,7 +30973,6 @@ transcripts/419570939
 transcripts/470280334
 transcripts/480128005
 transcripts/830237502
-transfers
 transform-an-ikea-chair-frame-into-a-portable-computer-5900963
 transform-cake-mixes-by-folding-in-whipped-cream-1832363058
 transform-your-amazon-echo-into-a-white-noise-machine-w-1831133690
@@ -31035,7 +31045,6 @@ travel/search
 travel/secure
 travel/story
 travel/trtl-travel-pillow-review
-travelnevadahighway95tc
 treadstone
 treasury
 treat-post-run-chafing-with-diaper-cream-1724603461
@@ -31291,7 +31300,6 @@ univercd/cc/td/doc
 universal-design-system/
 university
 unlink
-unlisted
 unlock-hidden-video-and-image-tools-with-this-url-hack-1548725145
 unsaved
 unsub
@@ -31323,9 +31331,6 @@ upload-lens-image
 upload-lens-image-history
 upload-shuffle-draft
 upload/
-upload/analyse
-upload/cloud
-upload/forgot_password
 uploaded_files
 uploadfile.php
 uploadhistory.php
@@ -31346,7 +31351,6 @@ urlinator/static-1.55
 urlinator/static-1.57
 urlinator/static-1.59
 urlinator/static-1.62
-urls
 urr
 urw
 urw/*/product-reviews
@@ -31497,7 +31501,7 @@ us/developer/docs/sforce50
 us/developer/docs/sforce60
 us/developer/docs/sforce70
 us/en
-us/en/careers/labor-condition-applications/assets/
+us/en/careers/labor-condition-applications/assets
 us/en/noindex
 us/epp
 us/es
@@ -31589,7 +31593,6 @@ user/account/services
 user/account/services/WhoAmI.htm
 user/account_disabled
 user/acct/login
-user/connect
 user/fpd/api
 user/login
 user/login
@@ -31725,6 +31728,7 @@ v0/google_drive/notify_change
 v0/users/*/coauthors
 v0/users/*/following
 v1
+v1/SocialMediaActivity/
 v1/alerts
 v1/api
 v1/browser-performance
@@ -31826,6 +31830,7 @@ vi
 vi-VN/$
 vi-vn/search
 vi-vn/searchresults
+vi/
 vi/android/collections
 vi/android/search
 vi/firefox/collections
@@ -31933,7 +31938,6 @@ vip
 virtual
 virtualization/
 virtualsupportassistant
-viruswarning.aspx
 visajobb?
 visual-gps/insights/results
 visual-notes
@@ -31949,10 +31953,12 @@ vn
 vod
 voices/
 voir-emploi?
+vos-questions
 vote-review
 votre-europarl/
 voucher
 voyager/api
+voyages
 vp
 vp2
 vpBaselines
@@ -31981,8 +31987,6 @@ wall*?thread=
 wall*?with=
 wall-*?q=
 wallet
-wallpaper
-wallpapers
 want-to-contribute-to-lifehacker-1174273961
 wanted
 wap/*
@@ -32161,7 +32165,6 @@ weekly/signup
 weimg
 welcome
 welcome-email
-welcome.aspx
 were-rhett-link-and-this-is-how-we-work-1822761185
 wetter/action/bayernwetter/bayern.do?plz=
 wetter/action/bayernwetter/bayern.do?regio=
@@ -32647,7 +32650,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://deezer.com/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://davidlynchfoundation.org/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -32843,8 +32846,8 @@ wiki/Wikipedia_discusión:Solicitudes_de_verificación_de_usuarios
 wiki/Wikipedia_discusión:Supresores/Candidaturas
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://en.wikipedia.org/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://engadget.com/robots.txt
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://enterprisemarketingportal.google/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_electionshttp://win.gs/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
@@ -33043,6 +33046,7 @@ wondermissive/interest
 word-of-the-day/manage-subscription
 wordpress/wp-admin
 wordpress/wp-admin/admin-ajax.php
+wordpress/wp-content
 work
 work
 work-at-ucl/redeployment
@@ -33145,7 +33149,8 @@ wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
-wp-admin/admin-ajax.phphttp://state.gov/robots.txt
+wp-admin/admin-ajax.phphttp://rtbf.be/robots.txt
+wp-admin/admin-ajax.phphttp://starbucks.com/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
 wp-adv
@@ -33216,6 +33221,7 @@ writeReview2/ew
 writeareview
 writers/writing-tips/
 writing
+writing-tools-sitemap.xml
 writing-tools/experimental-tools.json
 ws
 ws*api-server.html$
@@ -33430,6 +33436,8 @@ zh-CN/firefox/collections/mozilla
 zh-CN/firefox/collections/mozilla/$
 zh-CN/firefox/search
 zh-HK/$
+zh-Hans/
+zh-Hant/
 zh-TW/$
 zh-TW/android/collections
 zh-TW/android/search
@@ -33578,7 +33586,7 @@ zh/music/+noredirect
 zh/player
 zh/search
 zh/search/autocomplete
-zh/services/real-estate/source*
+zh/services/real-estate/source
 zh/settings
 zh/tag
 zh/user
@@ -33728,7 +33736,7 @@ zz-test
 404
 404
 404.html
-413gkwMT/http://sgtrains.com/robots.txt
+413gkwMT/http://similarweb.com/robots.txt
 429.html
 500
 500
